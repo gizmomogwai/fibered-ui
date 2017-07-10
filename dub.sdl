@@ -1,0 +1,6 @@
+name "fibered-ui"
+description "A sample dlangui using fibers."
+authors "Christian Köstlin"
+copyright "Copyright © 2017, Christian Köstlin"
+license "MIT"
+dependency "dlangui" version="~>0.9.79"
